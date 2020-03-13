@@ -10,7 +10,16 @@ html {
 
 body {
   font-family: Helvetica, sans-serif;
-  font-size: 1.6rem;
-  color: rgb(233, 142, 81);
-  background: paleturquoise;
+  font-size: 2em;
+  color: #ea7070;
+  background: #fae3d9;
+}
+
+h1{
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #2E94B9;
+}
+h2,h3{
+  color: #2E94B9;
 }
